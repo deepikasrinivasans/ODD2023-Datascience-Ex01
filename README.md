@@ -18,4 +18,18 @@ Remove the null values from the data
 ### STEP 4
 Save the Clean data to the file
 
-# CODE and OUTPUT
+# CODE 
+```
+import pandas as pd
+df=pd.read_csv("/content/Data_set.csv")
+print(df)
+```
+df.head(10)
+```
+```
+df.info()
+```
+```
+df.isnull()
+```
+
