@@ -92,8 +92,10 @@ df.isnull().sum()
 
 ![non null after](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/5316c6f6-b2ea-4779-a84e-572389ef2b3b)
 
-
 ## NON NULL BEFORE
+![info](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/80721c4f-e705-4113-9176-3a336a806eda)
+![null](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/ff37f7dd-89d5-4f14-9b55-a9157305367c)
+![is null sum](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/b9a4ab8e-2065-4aab-8f39-279138223221)
 
 
 ## MODE
