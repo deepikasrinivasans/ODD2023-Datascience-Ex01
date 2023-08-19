@@ -113,7 +113,7 @@ df.isnull().sum()
 ![NON NULL AFTER  SUM](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/366fa0fd-d29e-4a54-9d0c-197f86585d3b)
 
 
-# for loan_data:
+# For loan_data:
 ## DATA
 ![loan data set](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/b95ca805-b6f7-491f-ad87-7b4b00f40587)
 ![ln head](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/537b4230-dd0b-4ee2-b3b2-bec7343acde6)
