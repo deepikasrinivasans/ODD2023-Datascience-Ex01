@@ -88,23 +88,21 @@ df.isnull().sum()
 ## OUTPUT:
 # For Data_set:
 ## DATA
-![data](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/7551f382-3120-4c58-875e-373e503843b1)
-
-![non null after](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/5316c6f6-b2ea-4779-a84e-572389ef2b3b)
-
+![dataset](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/baffcaa2-7eb0-4df6-8b91-a11292551565)
+![head](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/e1a93e02-55ba-42f7-9993-38713bf5ed72)
 ## NON NULL BEFORE
-![info](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/80721c4f-e705-4113-9176-3a336a806eda)
-![null](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/ff37f7dd-89d5-4f14-9b55-a9157305367c)
-![is null sum](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/b9a4ab8e-2065-4aab-8f39-279138223221)
+![info](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/93974ffe-1e42-440c-91da-e5fdd5d48f2f)
+![isnull](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/95828eca-80f8-4d70-a563-8d9e11da18c9)
+![is null sum](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/daa908ba-846d-43be-bce7-414c108e63b6)
 ## MODE
-![MODE](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/370d8b0f-190c-448c-a167-d037c1520f2e)
+![MODE](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/37c29955-4a6c-46f9-9bed-06f02ae432b0)
 ## MEAN
-![MEAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/9e038789-c079-4144-9162-7f4d4e5fa349)
+![MEAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/efb9407d-191d-4a53-9f25-ce38ca174825)
 ## MEDIAN
-![MEDIAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/59163147-1a63-45b3-b0ef-25fc75f564fd)
-
-
+![MEDIAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/a578b7d4-7b0e-42c8-800e-1a8d463ebccb)
 ## NON NULL AFTER
+![INFOAFTER](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/1de1adf7-90fb-4f1e-90d2-d2e45297071b)
+![NON NULL AFTER  SUM](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/366fa0fd-d29e-4a54-9d0c-197f86585d3b)
 
 
 # for loan_data:
