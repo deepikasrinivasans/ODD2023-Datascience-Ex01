@@ -19,7 +19,7 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
-## For Data_set:
+# For Data_set:
 ```
 import pandas as pd
 df=pd.read_csv("/content/Data_set(1).csv")
@@ -86,4 +86,48 @@ df.info()
 df.isnull().sum()
 ```
 ## OUTPUT:
+# For Data_set:
+## DATA
+
+
+## NON NULL BEFORE
+
+
+## MODE
+
+## MEAN
+
+## MEDIAN
+
+
+## NON NULL AFTER
+
+
+# for loan_data:
+## DATA
+
+
+
+## NON NULL BEFORE
+
+
+## MODE
+
+
+## MEAN
+
+
+## MEDIAN
+
+
+## NON NULL AFTER  
+
+
+
+
+
+## RESULT
+Thus the given data is read,cleansed and the cleaned data is saved into the file.
+
+
 
