@@ -96,15 +96,12 @@ df.isnull().sum()
 ![info](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/80721c4f-e705-4113-9176-3a336a806eda)
 ![null](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/ff37f7dd-89d5-4f14-9b55-a9157305367c)
 ![is null sum](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/b9a4ab8e-2065-4aab-8f39-279138223221)
-
-
 ## MODE
-
-
-
+![MODE](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/370d8b0f-190c-448c-a167-d037c1520f2e)
 ## MEAN
-
+![MEAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/9e038789-c079-4144-9162-7f4d4e5fa349)
 ## MEDIAN
+![MEDIAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/59163147-1a63-45b3-b0ef-25fc75f564fd)
 
 
 ## NON NULL AFTER
