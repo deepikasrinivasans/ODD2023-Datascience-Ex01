@@ -92,7 +92,9 @@ df.isnull().sum()
 ![head](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/e1a93e02-55ba-42f7-9993-38713bf5ed72)
 ## NON NULL BEFORE
 ![info](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/93974ffe-1e42-440c-91da-e5fdd5d48f2f)
-![isnull](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/95828eca-80f8-4d70-a563-8d9e11da18c9)
+
+![null](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/aefbf0c7-47fc-4fc5-98a4-0e77f4c2aef2)
+
 ![is null sum](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/daa908ba-846d-43be-bce7-414c108e63b6)
 ## MODE
 ![MODE](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/37c29955-4a6c-46f9-9bed-06f02ae432b0)
@@ -102,6 +104,7 @@ df.isnull().sum()
 ![MEDIAN](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/a578b7d4-7b0e-42c8-800e-1a8d463ebccb)
 ## NON NULL AFTER
 ![INFOAFTER](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/1de1adf7-90fb-4f1e-90d2-d2e45297071b)
+
 ![NON NULL AFTER  SUM](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/366fa0fd-d29e-4a54-9d0c-197f86585d3b)
 
 
