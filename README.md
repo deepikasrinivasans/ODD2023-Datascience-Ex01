@@ -100,6 +100,8 @@ df.isnull().sum()
 
 ## MODE
 
+
+
 ## MEAN
 
 ## MEDIAN
@@ -126,6 +128,7 @@ df.isnull().sum()
 
 
 ## NON NULL AFTER  
+
 
 
 
