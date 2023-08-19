@@ -88,6 +88,9 @@ df.isnull().sum()
 ## OUTPUT:
 # For Data_set:
 ## DATA
+![data](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/7551f382-3120-4c58-875e-373e503843b1)
+
+![non null after](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex01/assets/119393935/5316c6f6-b2ea-4779-a84e-572389ef2b3b)
 
 
 ## NON NULL BEFORE
